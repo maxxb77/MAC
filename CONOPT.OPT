@@ -1,0 +1,4 @@
+rtmaxv = 1e30;
+rtredg = 1e-7;
+LFNICR = 200;
+LFSTAL = 1000;
